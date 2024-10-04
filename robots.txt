@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://beterta.github.io/sitemap.html.gz
+Sitemap: https://beterta.github.io/app/sitemap.html.gz
+Sitemap: https://beterta.github.io/assets/sitemap.html.gz
+Sitemap: https://beterta.github.io/css/sitemap.html.gz
+Sitemap: https://beterta.github.io/data/sitemap.html.gz
+Sitemap: https://beterta.github.io/includes/sitemap.html.gz
+Sitemap: https://beterta.github.io/item/sitemap.html.gz
+Sitemap: https://beterta.github.io/src/sitemap.html.gz
